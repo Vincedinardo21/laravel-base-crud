@@ -2,6 +2,6 @@
 
 @section('MainContent')
     <main>
-        <h1>Home Page</h1>
+        <h1>Home Page New</h1>
     </main>
 @endsection
